@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints
+BG_removed_images-*
+*.png
+!BG_removed_images/.gitkeep
